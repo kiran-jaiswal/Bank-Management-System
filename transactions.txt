@@ -1,0 +1,3 @@
+ACC409506: Account Created. Initial Balance: 500.0
+ACC350574: Account Created. Initial Balance: 400.0
+ACC98818: Account Created. Initial Balance: 500.0
